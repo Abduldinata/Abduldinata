@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=1a1a2e&color_reverse=false&text=✨%20Abdul%20Aziz%20Dinata%20✨&fontSize=50&fontColor=00D4FF&animation=fadeIn&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,3,4,5&text=✨%20Abdul%20Aziz%20Dinata%20✨&fontSize=50&fontColor=00D4FF&animation=twinkling&section=header" />
 
 <p align="center">
   <img src="./assets/anime/header-anime.gif" width="250" alt="Anime Header" />
@@ -9,8 +9,16 @@
 </p>
 
 <div align="center">
-  
-**Bringing Ideas to Life Through Code, Creativity & Innovation** ✨
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 💎 *"Bringing Ideas to Life Through Code, Creativity & Innovation"* 💎
+
+<img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Development-00D4FF?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00FF88?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+<img src="https://img.shields.io/badge/Level-Full%20Stack%20Developer-FF6B6B?style=for-the-badge&logo=codeigniter&logoColor=white" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -38,9 +46,15 @@
   </table>
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🛠️ Technical Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡-Power%20Stack-00D4FF?style=for-the-badge" />
+</p>
 
 ### 💻 Programming Languages
 <p align="center">
@@ -84,9 +98,16 @@
   <img src="./assets/icons/alight-motion.png" width="50" style="margin: 8px; filter: drop-shadow(0 0 8px rgba(0, 212, 255, 0.3));" alt="Alight Motion" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🔥-GitHub%20Activity-FF6B6B?style=for-the-badge" />
+</div>
+<br>
 
 <p align="center">
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abduldinata&theme=tokyonight" />
@@ -105,9 +126,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abduldinata&bg_color=1a1a2e&color=00D4FF&line=00D4FF&point=00FF88&area=true&hide_border=true&radius=10" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🎯 What I'm Looking For
+
+<div align="center">
+  <img src="https://img.shields.io/badge/👤-Career%20Opportunities-00D4FF?style=for-the-badge" />
+</div>
+<br>
 
 <div align="center">
 
@@ -120,9 +148,17 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🌍 Connect With Me
+
+<div align="center">
+
+### 💬 *"The best way to predict the future is to create it!"* ✨
+
+</div>
 
 <p align="center">
   <a href="https://linktr.ee/Nxta_" target="_blank">
@@ -136,7 +172,11 @@
   </a>
 </p>
 
----
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <div align="center">
 
@@ -146,14 +186,21 @@
   <img src="./assets/anime/footer-anime.gif" width="200" alt="Anime Footer" />
 </p>
 
+### 💫 *"Code is like humor. When you have to explain it, it's bad."* 💖
+
 *Feel free to explore my repositories and connect with me for exciting opportunities!*
 
 ```
-╔═══════════════════════════════════════╗
-║   Let's Build Something Amazing! ✨   ║
-╚═══════════════════════════════════════╝
+╔══════════════════════════════════════╗
+║  Let's Build Something Amazing! ✨   ║
+╚══════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Abduldinata&color=00D4FF&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Code-FF6B6B?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Abduldinata&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+#### ⭐ Star my repositories if you find them useful! ⭐
 
 </div>
