@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:141E30,100:243B55&text=Abdul%20Aziz%20Dinata&fontSize=42&fontColor=00eaff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00EAFF&size=24&center=true&vCenter=true&width=800&lines=Mobile+%26+Web+Developer;Flutter+%7C+PHP+%7C+HTML+CSS;Creative+Editor+%26+3D+Artist;AR+with+Unity+%7C+Blender;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00EAFF&size=24&center=true&vCenter=true&width=850&lines=Mobile+%26+Web+Developer;Flutter+%7C+PHP+%7C+HTML+CSS;Creative+Editor+%26+3D+Artist;AR+with+Unity+%7C+Blender;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -16,12 +16,10 @@
 ---
 
 ## ⚡ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,python,c,flutter,postgres,mysql,git" />
-</p>
 
+### 💻 Programming & Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,python,c,postgres,mysql,git,github,vscode,supabase" />
 </p>
 
 ---
@@ -31,26 +29,24 @@
   <img src="https://skillicons.dev/icons?i=blender,unity" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Augmented%20Reality-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-
 ---
+
 ## 🎨 Creative Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alight%20Motion-000000?style=for-the-badge" />
+  <img src="./assets/icons/aftereffects.svg" width="48" />
+  <img src="./assets/icons/photoshop.svg" width="48" />
+  <img src="./assets/icons/canva.svg" width="48" />
+  <img src="./assets/icons/alight-motion.svg" width="48" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abduldinata&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abduldinata&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abduldinata&theme=tokyonight" />
 </p>
+
 
 ---
 
@@ -76,4 +72,6 @@
   </a>
 </p>
 
-⭐ *Thank you for visiting my GitHub profile!*
+<p align="center">
+  ⭐ Thank you for visiting my GitHub profile!
+</p>
