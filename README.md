@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=1a1a2e&color_reverse=false&text=✨%20Abdul%20Aziz%20Dinata%20✨&fontSize=50&fontColor=00D4FF&animation=fadeIn&section=header" />
 
-<div align="center">
-  <img src="./assets/anime/header-anime.gif" width="300" alt="Anime Header" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.4);" />
-</div>
+<p align="center">
+  <img src="./assets/anime/header-anime.gif" width="250" alt="Anime Header" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?family=Courier+New&size=26&duration=3000&color=00D4FF&center=true&vCenter=true&width=900&lines=🎮+Mobile+%26+Web+Developer;💫+Flutter+%7C+PHP+%7C+HTML+%26+CSS;🎨+Creative+Designer+%26+3D+Artist;🌟+AR+%26+Interactive+Experiences;⚡+Always+Learning+%26+Innovating" />
@@ -31,8 +31,8 @@
 - 🚀 **Mission**: Build impactful applications that make a difference
 - 💪 **Philosophy**: Clean code, continuous learning, and user-centric design
       </td>
-      <td width="40%">
-        <img src="./assets/anime/character.gif" width="200" alt="Anime Character" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 212, 255, 0.3);" />
+      <td width="40%" align="center">
+        <img src="./assets/anime/character.gif" width="180" alt="Anime Character" />
       </td>
     </tr>
   </table>
@@ -142,7 +142,9 @@
 
 ### 🌟 Thanks for Visiting! 🌟
 
-<img src="./assets/anime/footer-anime.gif" width="250" alt="Anime Footer" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 0 20px rgba(0, 212, 255, 0.4);" />
+<p align="center">
+  <img src="./assets/anime/footer-anime.gif" width="200" alt="Anime Footer" />
+</p>
 
 *Feel free to explore my repositories and connect with me for exciting opportunities!*
 
