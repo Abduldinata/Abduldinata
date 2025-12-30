@@ -1,77 +1,157 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:141E30,100:243B55&text=Abdul%20Aziz%20Dinata&fontSize=42&fontColor=00eaff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=1a1a2e&color_reverse=false&text=✨%20Abdul%20Aziz%20Dinata%20✨&fontSize=50&fontColor=00D4FF&animation=fadeIn&section=header" />
+
+<div align="center">
+  <img src="./assets/anime/header-anime.gif" width="300" alt="Anime Header" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.4);" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00EAFF&size=24&center=true&vCenter=true&width=850&lines=Mobile+%26+Web+Developer;Flutter+%7C+PHP+%7C+HTML+CSS;Creative+Editor+%26+3D+Artist;AR+with+Unity+%7C+Blender;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?family=Courier+New&size=26&duration=3000&color=00D4FF&center=true&vCenter=true&width=900&lines=🎮+Mobile+%26+Web+Developer;💫+Flutter+%7C+PHP+%7C+HTML+%26+CSS;🎨+Creative+Designer+%26+3D+Artist;🌟+AR+%26+Interactive+Experiences;⚡+Always+Learning+%26+Innovating" />
+</p>
+
+<div align="center">
+  
+**Bringing Ideas to Life Through Code, Creativity & Innovation** ✨
+
+</div>
+
+---
+
+## 👤 About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        I'm a passionate <b>Full-Stack Developer</b> and <b>Creative Professional</b> based in Indonesia, dedicated to building beautiful, functional applications that solve real-world problems. With expertise in mobile development, web technologies, and creative multimedia, I combine technical skills with artistic vision to deliver exceptional digital experiences.
+
+- 🎯 **Focus**: Mobile & Web Application Development with cutting-edge technologies
+- 🌱 **Currently Learning**: Advanced Flutter patterns, Backend architecture, AR/VR development
+- 💡 **Passionate About**: Database optimization, Interactive multimedia, Augmented Reality
+- 🎨 **Creative Skills**: UI/UX Design, Video editing, 3D modeling, Graphic design
+- 🚀 **Mission**: Build impactful applications that make a difference
+- 💪 **Philosophy**: Clean code, continuous learning, and user-centric design
+      </td>
+      <td width="40%">
+        <img src="./assets/anime/character.gif" width="200" alt="Anime Character" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 212, 255, 0.3);" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="./assets/skills/html.png" width="50" style="margin: 8px;" alt="HTML" />
+  <img src="./assets/skills/css.png" width="50" style="margin: 8px;" alt="CSS" />
+  <img src="./assets/skills/javascript.png" width="50" style="margin: 8px;" alt="JavaScript" />
+  <img src="./assets/skills/php.png" width="50" style="margin: 8px;" alt="PHP" />
+  <img src="./assets/skills/python.png" width="50" style="margin: 8px;" alt="Python" />
+  <img src="./assets/skills/c.png" width="50" style="margin: 8px;" alt="C" />
+  <img src="./assets/skills/dart.png" width="50" style="margin: 8px;" alt="Dart" />
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="./assets/skills/flutter.png" width="50" style="margin: 8px;" alt="Flutter" />
+  <img src="./assets/skills/android.png" width="50" style="margin: 8px;" alt="Android" />
+</p>
+
+### 🗄️ Database & Backend
+<p align="center">
+  <img src="./assets/skills/postgres.png" width="50" style="margin: 8px;" alt="PostgreSQL" />
+  <img src="./assets/skills/firebase.png" width="50" style="margin: 8px;" alt="Firebase" />
+  <img src="./assets/skills/nodejs.png" width="50" style="margin: 8px;" alt="Node.js" />
+</p>
+
+### 🎨 Tools & Platforms
+<p align="center">
+  <img src="./assets/skills/git.png" width="50" style="margin: 8px;" alt="Git" />
+  <img src="./assets/skills/github.png" width="50" style="margin: 8px;" alt="GitHub" />
+  <img src="./assets/skills/vscode.png" width="50" style="margin: 8px;" alt="VS Code" />
+  <img src="./assets/skills/blender.png" width="50" style="margin: 8px;" alt="Blender" />
+  <img src="./assets/skills/unity.png" width="50" style="margin: 8px;" alt="Unity" />
+  <img src="./assets/skills/figma.png" width="50" style="margin: 8px;" alt="Figma" />
+</p>
+
+### 🎬 Creative & Multimedia
+<p align="center">
+  <img src="./assets/icons/aftereffects.png" width="50" style="margin: 8px; filter: drop-shadow(0 0 8px rgba(0, 212, 255, 0.3));" alt="After Effects" />
+  <img src="./assets/icons/photoshop.png" width="50" style="margin: 8px; filter: drop-shadow(0 0 8px rgba(0, 212, 255, 0.3));" alt="Photoshop" />
+  <img src="./assets/icons/canva.png" width="50" style="margin: 8px; filter: drop-shadow(0 0 8px rgba(0, 212, 255, 0.3));" alt="Canva" />
+  <img src="./assets/icons/alight-motion.png" width="50" style="margin: 8px; filter: drop-shadow(0 0 8px rgba(0, 212, 255, 0.3));" alt="Alight Motion" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎯 Focused on **Mobile & Web Application Development**
-- 🌱 Currently learning **Flutter, Backend Systems, and AR Development**
-- 💡 Interested in **Database Systems, Multimedia Apps & Augmented Reality**
-- 🎨 Experienced in **Video Editing, Graphic Design & 3D Modeling**
-- 🧠 Passionate about learning and building real-world, interactive projects
+## 📈 GitHub Statistics
 
----
-
-## ⚡ Tech Stack
-
-### 💻 Programming & Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,python,c,postgres,mysql,git,github,vscode,supabase" />
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abduldinata&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abduldinata&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abduldinata&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧊 3D Modeling & AR
+## 🔥 Contribution Activity
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,unity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abduldinata&bg_color=1a1a2e&color=00D4FF&line=00D4FF&point=00FF88&area=true&hide_border=true&radius=10" />
 </p>
 
 ---
 
-## 🎨 Creative Skills
-<p align="center">
-  <img src="./assets/icons/aftereffects.svg" width="48" />
-  <img src="./assets/icons/photoshop.svg" width="48" />
-  <img src="./assets/icons/canva.svg" width="48" />
-  <img src="./assets/icons/alight-motion.svg" width="48" />
-</p>
+## 🎯 What I'm Looking For
+
+<div align="center">
+
+| 💼 Opportunities | 🤝 Collaboration | 🎓 Growth |
+|:---:|:---:|:---:|
+| **Mobile Development** | **Open Source** | **Web Technologies** |
+| **Web Applications** | **Team Projects** | **Backend Systems** |
+| **AR/Interactive** | **Freelance Work** | **AR & 3D Graphics** |
+| **Internship Programs** | **Knowledge Sharing** | **Leadership Skills** |
+
+</div>
 
 ---
 
-## 📊 GitHub Activity
+## 🌍 Connect With Me
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abduldinata&theme=tokyonight" />
-</p>
-
-
----
-
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abduldinata&bg_color=0d1117&color=00eaff&line=00eaff&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-## 🤝 Open To
-- Mobile & Web Development Projects  
-- AR & Interactive Multimedia Projects  
-- Freelance & Collaboration  
-- Internship Opportunities  
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linktr.ee/Nxta_">
-    <img src="https://img.shields.io/badge/Linktree-0f172a?style=for-the-badge&logo=linktree&logoColor=43E55E" />
+  <a href="https://linktr.ee/Nxta_" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Linktree-0f172a?style=for-the-badge&logoColor=00D4FF" alt="Linktree" />
+  </a>
+  <a href="https://github.com/Abduldinata" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=FF6B6B" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  ⭐ Thank you for visiting my GitHub profile!
-</p>
+---
+
+<div align="center">
+
+### 🌟 Thanks for Visiting! 🌟
+
+<img src="./assets/anime/footer-anime.gif" width="250" alt="Anime Footer" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 0 20px rgba(0, 212, 255, 0.4);" />
+
+*Feel free to explore my repositories and connect with me for exciting opportunities!*
+
+```
+╔═══════════════════════════════════════╗
+║   Let's Build Something Amazing! ✨   ║
+╚═══════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=Abduldinata&color=00D4FF&style=flat" alt="Profile views" />
+
+</div>
