@@ -167,7 +167,7 @@
   <a href="https://github.com/Abduldinata" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:abdul.dinata557@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=FF6B6B" alt="Email" />
   </a>
 </p>
