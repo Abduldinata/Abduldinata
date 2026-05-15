@@ -36,7 +36,7 @@ I bridge the gap between **technical logic** and **visual aesthetics**, speciali
   <img src="./assets/skills/blender.png" width="40" title="Blender" /> &nbsp;
   <img src="./assets/icons/aftereffects.png" width="40" title="After Effects" /> &nbsp;
   <img src="./assets/icons/alight-motion.png" width="40" title="Alight Motion" /> &nbsp;
-  <img src="./assets/icons/capcutn.png" width="40" title="Capcut" /> &nbsp;
+  <img src="./assets/icons/capcut.png" width="40" title="Capcut" /> &nbsp;
   <img src="./assets/icons/photoshop.png" width="40" title="Photoshop" /> &nbsp;
   <img src="./assets/skills/figma.png" width="40" title="Figma" /> &nbsp;
   <img src="./assets/icons/canva.png" width="40" title="Canva" />
