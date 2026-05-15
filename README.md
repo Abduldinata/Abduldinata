@@ -50,7 +50,7 @@ I bridge the gap between **technical logic** and **visual aesthetics**, speciali
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Main_Portfolio-00D4FF?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Main Portfolio" />
   </a>
-  <a href="https://sociabuzz.com/nxta_" target="_blank">
+  <a href="https://sociabuzz.com/nxta" target="_blank">
     <img src="https://img.shields.io/badge/Digital_Store-FF5757?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Digital Store" />
   </a>
   <a href="mailto:abdul.dinata557@gmail.com">
@@ -59,7 +59,7 @@ I bridge the gap between **technical logic** and **visual aesthetics**, speciali
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/@nxtadiv" target="_blank">
+  <a href="https://youtube.com/@AbdulAzizDinata" target="_blank">
     <img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://instagram.com/nxta.div" target="_blank">
